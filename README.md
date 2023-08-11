@@ -1,6 +1,6 @@
 <img width="530" src="https://github.com/memonsamina/samina-memon/blob/main/sm-s-m-letter-logo-design-initial-letter-sm-linked-circle-uppercase-monogram-logo-red-and-blue-sm-logo-s-m-design-sm-s-m-vector.jpg">
 on
-<h1 align="center">Hi 👋, I'm Samina Memon </h1>
+<h1 align="center">Hi! 👋, I'm Samina Memon </h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <img align="right" alt="coding" width="400"
